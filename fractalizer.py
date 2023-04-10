@@ -14,4 +14,4 @@ fractalizer.add_command(tree.tree)
 fractalizer.add_command(julia.julia)
 
 if __name__ == '__main__':
-	fractalizer()
+    fractalizer()
